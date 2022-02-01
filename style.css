@@ -1,0 +1,216 @@
+.navber {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    justify-content: space-between;
+    
+}
+.logo1 {
+    margin-right: auto;
+    padding-left: 50px;
+    height: 40px;
+    width: 51px;
+}
+.logo2 {
+padding-right: 90px;
+height: 40px;
+width: 51px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0px, auto;
+}
+ul {
+   display: flex;
+   padding-left: 450px;
+
+
+}
+li {
+    list-style: none;
+    
+}
+li a {
+     padding: 10px;
+    text-decoration: none;
+}
+.image {
+    height: 80px;
+    width: 80px;
+}
+.do {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.one {
+    display: flex;
+    align-items: center;
+   
+}
+.two {
+    display: flex;
+    align-items: center; 
+   padding-top: 15px;
+}
+.three {
+    display: flex;
+    align-items: center; 
+   
+}
+.four {
+    display: flex;
+    align-items: center; 
+    padding-top: 15px;
+}
+.five {
+    display: flex;
+    align-items: center; 
+    
+}
+.six {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+   
+}
+h2 {
+    padding-left: 55px;
+    font-family: 'Poppins', sans-serif;
+    color: blueviolet;
+}
+h3 {
+   padding-left: 8px;
+   font-family: 'Poppins', sans-serif;
+   color: white;
+}
+h4 {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+h5 {
+   margin-left: 10px;
+   font-family: 'Poppins', sans-serif;
+}
+h6 {
+    margin-left: 10px;
+ 
+    font-family: 'Poppins', sans-serif;
+    color: orange;
+}
+.body {
+    border: 1px solid wheat;
+    border-radius: 5px;
+    max-width: 850px;
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: white;
+
+}
+body {
+    background-color: beige;
+}
+.mannar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.doll {
+    height: 115px;
+    width: 170px;
+    border-radius: 5px;
+}
+.abc {
+    display: flex;
+    align-items: center;
+    
+}
+.lot {
+    display: flex;
+    align-items: center; 
+}
+.good {
+    display: flex;
+    align-items: center;  
+}
+.took {
+    display: flex;
+    align-items: center;   
+}
+.seven {
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.horigen {
+    height: 0.3px;
+    width: 38em;
+    margin: 50px auto;
+    margin: 0.5em, auto;
+    opacity: 0.3;
+
+}
+
+.to {
+    display: flex;
+    align-items: center;
+    border: 0.5px solid violet;
+    border-radius: 50px;
+    width: 70px;
+    height: 20px;
+    margin-left: 10px;
+    
+  
+}
+.toy {
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.ant {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    padding: 15px;
+}
+.footer {
+    border: 1px solid wheat;
+    border-radius: 5px;
+    max-width: 850px;
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.dod {
+    height: 100px;
+    width: 180px;
+    border-radius: 5px;
+}
+.tall {
+    display: flex;
+   align-items: center;
+   
+}
+.no {
+    height: 20px;
+    width: 20px;
+}
+.done {
+    display: flex;
+    align-items: center;
+  
+}
+.pol {
+    color: blueviolet;
+}
+a {
+    color: white;
+}
+
+
